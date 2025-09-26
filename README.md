@@ -11,7 +11,8 @@ Bu proje, benim kişisel blog/portfolyomdur. Site; kendimi tanıttığım, yapt�
 - Footer ve navbar
 
 ## Canlı Demo
-🌐 [Siteyi Görüntüle](https://aysenurlaklak.github.io/kisisel_blog)  
+🌐 [Siteyi Görüntüle](https://aysenurlaklak.github.io/kisisel_blog)
+
 
 
 
